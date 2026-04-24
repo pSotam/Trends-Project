@@ -1,0 +1,18 @@
+Criar um programa que relaciona tags mais procuradas entre as fornecidas e diz qual a mais relevante para se anunciar no momento.
+
+Essa pasta será constantemente atualizada no google drive/github
+
+Preciso atualizar de forma mensal a lista de Sku's não anunciados
+	Adicionar sistema de desligamento de dados caso um Sku tenha sido anunciado durante o processo
+
+Preciso descobrir um meio eficiente de analisar as "trends" e também uma forma de enviar dados rapidamente de forma clara e objetiva para o programa
+Forma clara e objetiva para o programa -> Usar apenas as palavras principais do produto para serem buscadas
+
+Sites de trend para Mercado Livre (De acordo com o Chat GPT)
+	- Google Trends
+	- Nativa Trends
+	- Real Trends
+	- Nubimetrics
+	- (Instável; interno) Tendências do Mercado Livre
+
+Função de relação de preços
